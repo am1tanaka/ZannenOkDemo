@@ -15,11 +15,11 @@ EditorBuildSettings:
     path: Assets/Scenes/NGStage2.unity
     guid: a1718980392adc441b7adef6ead16871
   - enabled: 1
-    path: Assets/Scenes/OKTitle.unity
-    guid: 75940fd6e89402f4ead496e3b93eb133
-  - enabled: 1
-    path: Assets/Scenes/OKStage1.unity
+    path: Assets/Scenes/Stage1.unity
     guid: 51b1ac632fa7ab445a4600c0ff89a089
   - enabled: 1
-    path: Assets/Scenes/OKStage2.unity
+    path: Assets/Scenes/Stage2.unity
     guid: 30f687e8f246a0e4594596b41784d1ac
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 75940fd6e89402f4ead496e3b93eb133
