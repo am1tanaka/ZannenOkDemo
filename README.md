@@ -16,6 +16,5 @@ Unityの**ざんねんプロジェクト**と**(一ヶ所以外)おっけープ�
 以上でビルドできます。
 
 # ライセンス
-MIT License
+[MIT License](LICENSE)
 Copyright (C) 2018 たなかゆう
-
