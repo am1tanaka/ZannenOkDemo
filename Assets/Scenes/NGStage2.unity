@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.4366757, g: 0.48427194, b: 0.5645252, a: 1}
+  m_IndirectSpecularColor: {r: 0.43667564, g: 0.48427147, b: 0.56452364, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -501,6 +501,43 @@ Prefab:
       propertyPath: m_Text
       value: Stage 2
       objectReference: {fileID: 0}
+    - target: {fileID: 114676695592327060, guid: 1faa71f6553cb574ea7586324eaa13aa,
+        type: 2}
+      propertyPath: m_UiScaleMode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114676695592327060, guid: 1faa71f6553cb574ea7586324eaa13aa,
+        type: 2}
+      propertyPath: m_ReferenceResolution.x
+      value: 850
+      objectReference: {fileID: 0}
+    - target: {fileID: 114676695592327060, guid: 1faa71f6553cb574ea7586324eaa13aa,
+        type: 2}
+      propertyPath: m_ReferenceResolution.y
+      value: 480
+      objectReference: {fileID: 0}
+    - target: {fileID: 114676695592327060, guid: 1faa71f6553cb574ea7586324eaa13aa,
+        type: 2}
+      propertyPath: m_ScreenMatchMode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114813493391358558, guid: 1faa71f6553cb574ea7586324eaa13aa,
+        type: 2}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: 3a1bacbb01aea4318a2e3cf1a73a628a,
+        type: 3}
+    - target: {fileID: 114663958573732308, guid: 1faa71f6553cb574ea7586324eaa13aa,
+        type: 2}
+      propertyPath: m_FontData.m_RichText
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114663958573732308, guid: 1faa71f6553cb574ea7586324eaa13aa,
+        type: 2}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: 3a1bacbb01aea4318a2e3cf1a73a628a,
+        type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 1faa71f6553cb574ea7586324eaa13aa, type: 2}
   m_IsPrefabParent: 0
